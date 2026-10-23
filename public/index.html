@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Generador de Reportes Asíncrono</title>
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            max-width: 720px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        label {
+            display: block;
+            margin-top: 1rem;
+            font-weight: 600;
+        }
+
+        input,
+        button {
+            padding: 0.4rem 0.6rem;
+            font-size: 1rem;
+        }
+
+        #status {
+            margin-top: 1.5rem;
+            padding: 1rem;
+            background: #f4f4f4;
+            border-radius: 8px;
+            white-space: pre-wrap;
+        }
+
+        #download {
+            display: none;
+            margin-top: 0.8rem;
+        }
+
+        .error {
+            color: #b00020;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>📊 Reporte de Ventas Asíncrono</h1>
+
+    <label for="start">Fecha inicio</label>
+    <input id="start" type="date" value="2024-01-01" />
+
+    <label for="end">Fecha fin</label>
+    <input id="end" type="date" value="2024-12-31" />
+
+    <button id="create">Solicitar reporte</button>
+    <a id="download" href="#">⬇️ Descargar CSV</a>
+
+    <div id="status">Sin reporte aún.</div>
+
+    <script>
+        const API = '/api';
+        let pollTimer = null;
+
+        async function requestReport() {
+            const start = document.getElementById('start').value;
+            const end = document.getElementById('end').value;
+            const statusBox = document.getElementById('status');
+            const downloadLink = document.getElementById('download');
+
+            downloadLink.style.display = 'none';
+            statusBox.textContent = 'Enviando solicitud...';
+
+            try {
+                const res = await fetch(`${API}/reports`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'Idempotency-Key': crypto.randomUUID() },
+                    body: JSON.stringify({ report_type: 'sales', start_date: start, end_date: end }),
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.error || 'Error en la solicitud');
+
+                statusBox.textContent = `Reporte ${data.report_id}\nEstado: ${data.status}`;
+                pollStatus(data.report_id);
+            } catch (err) {
+                statusBox.textContent = `Error: ${err.message}`;
+                statusBox.className = 'error';
+            }
+        }
+
+        async function pollStatus(reportId) {
+            if (pollTimer) clearInterval(pollTimer);
+
+            const tick = async () => {
+                const res = await fetch(`${API}/reports/${reportId}`);
+                const data = await res.json();
+                const statusBox = document.getElementById('status');
+                const downloadLink = document.getElementById('download');
+
+                statusBox.className = '';
+                statusBox.textContent =
+                    `Reporte: ${data.report_id}\n` +
+                    `Estado: ${data.status}\n` +
+                    `Intentos: ${data.attempts}\n` +
+                    (data.exported_rows != null ? `Filas: ${data.exported_rows}\n` : '') +
+                    (data.error ? `Error: ${data.error}\n` : '');
+
+                if (data.status === 'completed') {
+                    clearInterval(pollTimer);
+                    downloadLink.href = data.download_url;
+                    downloadLink.style.display = 'inline-block';
+                } else if (data.status === 'failed') {
+                    clearInterval(pollTimer);
+                    statusBox.classList.add('error');
+                }
+            };
+
+            await tick();
+            pollTimer = setInterval(tick, 1500);
+        }
+
+        document.getElementById('create').addEventListener('click', requestReport);
+    </script>
+</body>
+
+</html>

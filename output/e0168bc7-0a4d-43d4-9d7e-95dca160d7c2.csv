@@ -1,0 +1,1258 @@
+sale_id,sale_date,customer_name,product_name,quantity,unit_price,total_amount
+453,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,10,17.41,174.10
+826,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,4,146.57,586.28
+1587,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,7,193.57,1354.99
+2736,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,5,120.96,604.80
+3414,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,3,130.14,390.42
+4457,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,8,82.39,659.12
+5123,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,3,114.12,342.36
+5814,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,3,29.77,89.31
+7411,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,1,106.13,106.13
+7455,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,7,114.22,799.54
+8043,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,8,82.75,662.00
+8528,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,7,137.71,963.97
+8996,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,2,200.57,401.14
+9317,Mon Jan 01 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,3,6.84,20.52
+933,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,1,169.65,169.65
+1328,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,4,22.86,91.44
+1524,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,5,61.21,306.05
+2524,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,4,192.09,768.36
+2538,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,10,151.82,1518.20
+2625,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,4,156.88,627.52
+3022,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,10,14.36,143.60
+4383,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,6,185.95,1115.70
+6004,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,6,169.14,1014.84
+6784,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,9,163.50,1471.50
+6808,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,5,103.88,519.40
+7207,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,1,83.89,83.89
+7800,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,4,76.99,307.96
+8435,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,70.40,563.20
+9892,Tue Jan 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,3,183.16,549.48
+589,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,1,76.30,76.30
+2724,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,4,145.82,583.28
+2907,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,8,203.54,1628.32
+4380,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,6,62.80,376.80
+4593,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,6,27.99,167.94
+5567,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,4,19.59,78.36
+5825,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,10,32.02,320.20
+6186,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,2,112.47,224.94
+7165,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,5,92.94,464.70
+7489,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,8,147.58,1180.64
+8085,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,6,138.57,831.42
+9100,Wed Jan 03 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,2,13.88,27.76
+68,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,7,37.11,259.77
+451,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,9,12.59,113.31
+3063,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,3,117.98,353.94
+3994,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,7,174.53,1221.71
+4133,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,10,16.83,168.30
+4657,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,3,71.52,214.56
+4962,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,1,142.23,142.23
+5077,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,10,161.87,1618.70
+7305,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,8,124.57,996.56
+7600,Thu Jan 04 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,10,192.84,1928.40
+936,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,3,199.14,597.42
+1358,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,7,48.83,341.81
+3369,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,4,200.61,802.44
+5357,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,5,140.81,704.05
+5921,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,7,160.51,1123.57
+6062,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,8,149.94,1199.52
+7493,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,3,22.11,66.33
+8296,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,1,40.35,40.35
+9204,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,1,62.88,62.88
+9271,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,9,17.06,153.54
+9447,Fri Jan 05 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,6,116.20,697.20
+30,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,9,43.47,391.23
+320,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,5,23.23,116.15
+582,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,3,155.73,467.19
+965,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,4,11.33,45.32
+1003,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,7,153.26,1072.82
+2354,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,2,49.77,99.54
+5149,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,4,149.31,597.24
+8313,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,9,178.76,1608.84
+8956,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,5,100.36,501.80
+9022,Sat Jan 06 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,2,195.54,391.08
+350,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,1,35.70,35.70
+1276,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,3,86.59,259.77
+1521,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,7,44.10,308.70
+4579,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,10,51.51,515.10
+5070,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,10,164.08,1640.80
+5371,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,10,57.90,579.00
+6709,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,2,120.41,240.82
+7389,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,5,10.96,54.80
+7530,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,1,136.30,136.30
+8262,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,5,13.03,65.15
+8543,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,5,204.28,1021.40
+9300,Sun Jan 07 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,1,60.97,60.97
+125,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,1,151.33,151.33
+773,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,7,97.69,683.83
+905,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,1,148.61,148.61
+938,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,10,131.78,1317.80
+1366,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,8,179.68,1437.44
+1812,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,7,7.03,49.21
+1939,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,6,43.80,262.80
+2680,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,2,56.88,113.76
+3118,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,9,61.24,551.16
+4514,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,163.19,1305.52
+4867,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,4,43.01,172.04
+5194,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,10,77.24,772.40
+5907,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,9,94.44,849.96
+6509,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,6,85.92,515.52
+7478,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,2,12.00,24.00
+7785,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,1,64.55,64.55
+8127,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,3,80.73,242.19
+8502,Mon Jan 08 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,2,57.56,115.12
+863,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,3,39.38,118.14
+2551,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,3,177.62,532.86
+3899,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,6,113.78,682.68
+4352,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,7,171.03,1197.21
+4729,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,8,128.32,1026.56
+4897,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,2,107.58,215.16
+5015,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,10,172.80,1728.00
+5944,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,3,15.17,45.51
+9477,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,9,100.86,907.74
+9491,Tue Jan 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,6,105.45,632.70
+624,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,126.17,1009.36
+625,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,10,72.66,726.60
+2376,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,10,144.30,1443.00
+2517,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,2,112.19,224.38
+3029,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,6,55.39,332.34
+5050,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,73.80,590.40
+6864,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,4,34.99,139.96
+8388,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,5,88.01,440.05
+8484,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,5,23.11,115.55
+8647,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,2,148.42,296.84
+8848,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,7,115.76,810.32
+9576,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,10,157.28,1572.80
+9706,Wed Jan 10 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,1,10.04,10.04
+813,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,8,75.91,607.28
+977,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,3,78.40,235.20
+1167,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,1,166.29,166.29
+2574,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,10,166.03,1660.30
+2578,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,9,55.34,498.06
+4051,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,1,50.53,50.53
+4166,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,4,156.03,624.12
+5193,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,1,108.95,108.95
+5573,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,1,118.52,118.52
+5580,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,3,168.82,506.46
+5674,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,1,170.63,170.63
+6350,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,10,45.11,451.10
+6507,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,3,44.77,134.31
+6623,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,10,109.48,1094.80
+9004,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,7,173.46,1214.22
+9006,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,6,201.97,1211.82
+9374,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,8,84.55,676.40
+9444,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,7,71.73,502.11
+9934,Thu Jan 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,10,199.72,1997.20
+1134,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,2,95.89,191.78
+1594,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,3,90.20,270.60
+1817,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,7,72.94,510.58
+2593,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,8,103.98,831.84
+3316,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,3,157.44,472.32
+3696,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,9,200.26,1802.34
+3733,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,9,97.93,881.37
+4301,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,2,157.93,315.86
+4661,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,10,5.77,57.70
+5294,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,10,148.01,1480.10
+5333,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,2,153.30,306.60
+6487,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,9,203.66,1832.94
+7761,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,1,154.31,154.31
+7940,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,8,149.43,1195.44
+7999,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,1,70.41,70.41
+9059,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,9,121.81,1096.29
+9188,Fri Jan 12 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,5,12.49,62.45
+457,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,7,39.17,274.19
+805,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,5,74.61,373.05
+1553,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,6,89.98,539.88
+1819,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,5,56.85,284.25
+4230,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,10,184.24,1842.40
+4256,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,10,54.72,547.20
+4340,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,7,168.38,1178.66
+4912,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,9,145.06,1305.54
+5802,Sat Jan 13 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,10,203.03,2030.30
+524,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,10,190.29,1902.90
+796,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,3,54.22,162.66
+1198,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,6,85.17,511.02
+2276,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,9,149.52,1345.68
+3091,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,8,136.15,1089.20
+3428,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,7,66.19,463.33
+5211,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,8,185.35,1482.80
+5275,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,4,110.72,442.88
+5336,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,6,169.63,1017.78
+5549,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,10,106.77,1067.70
+6676,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,4,37.68,150.72
+7231,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,2,138.61,277.22
+9064,Sun Jan 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,6,129.94,779.64
+1268,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,6,9.57,57.42
+2943,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,8,118.90,951.20
+3758,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,2,149.06,298.12
+3843,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,7,120.45,843.15
+3997,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,2,64.75,129.50
+4349,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,3,21.39,64.17
+4723,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,7,5.46,38.22
+4751,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,10,108.06,1080.60
+5853,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,7,54.94,384.58
+5952,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,5,163.50,817.50
+6143,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,5,82.88,414.40
+8422,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,3,123.50,370.50
+8586,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,9,30.00,270.00
+9135,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,9,39.61,356.49
+9531,Mon Jan 15 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,9,40.77,366.93
+541,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,6,149.32,895.92
+1907,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,1,175.63,175.63
+2257,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Starter Kit,1,158.06,158.06
+3584,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,4,6.79,27.16
+3903,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,1,157.60,157.60
+4768,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,9,137.33,1235.97
+5845,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,3,143.69,431.07
+7380,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,10,7.35,73.50
+8820,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,2,123.32,246.64
+9171,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,5,160.70,803.50
+9997,Tue Jan 16 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,8,72.73,581.84
+176,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,9,37.84,340.56
+705,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,4,137.25,549.00
+840,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,9,25.71,231.39
+888,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,1,202.86,202.86
+1097,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,6,25.40,152.40
+1103,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,7,41.90,293.30
+1664,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,6,71.07,426.42
+5061,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,9,15.56,140.04
+5276,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,5,151.30,756.50
+5746,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,5,152.34,761.70
+6721,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,4,48.38,193.52
+7845,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,1,47.37,47.37
+7918,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,2,202.05,404.10
+8777,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,4,33.13,132.52
+9774,Wed Jan 17 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,2,23.89,47.78
+918,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,2,92.50,185.00
+1397,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,10,21.03,210.30
+2039,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,2,146.38,292.76
+2475,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,7,12.06,84.42
+2545,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,2,138.16,276.32
+2709,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,4,109.28,437.12
+3151,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,2,23.23,46.46
+4115,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,8,96.94,775.52
+6112,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,8,87.49,699.92
+6395,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,2,180.24,360.48
+9277,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,7,172.80,1209.60
+9312,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,7,80.09,560.63
+9942,Thu Jan 18 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,2,198.36,396.72
+718,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,1,186.40,186.40
+1068,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,8,198.52,1588.16
+1472,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,9,194.88,1753.92
+1597,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,2,98.56,197.12
+1650,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,5,83.19,415.95
+2114,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,10,184.08,1840.80
+2302,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,1,162.49,162.49
+3158,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,4,30.95,123.80
+4813,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,4,92.76,371.04
+5466,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,3,39.05,117.15
+5894,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,8,138.20,1105.60
+7353,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,2,112.32,224.64
+8534,Fri Jan 19 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,8,158.10,1264.80
+795,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,5,87.98,439.90
+2482,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,7,108.85,761.95
+3312,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,4,86.03,344.12
+4325,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,1,46.46,46.46
+4573,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,2,90.44,180.88
+5125,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,8,69.81,558.48
+5719,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,7,95.11,665.77
+7126,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,8,53.06,424.48
+7907,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,8,128.37,1026.96
+8790,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,10,7.43,74.30
+8857,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,1,161.92,161.92
+9448,Sat Jan 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,3,94.81,284.43
+1936,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,5,11.50,57.50
+2047,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,4,46.80,187.20
+2169,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,6,192.38,1154.28
+2484,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,1,81.75,81.75
+2942,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,10,196.09,1960.90
+3475,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,2,153.40,306.80
+3612,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,8,159.11,1272.88
+3755,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,6,88.31,529.86
+3882,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,3,35.80,107.40
+4024,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,3,120.47,361.41
+4272,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,3,131.20,393.60
+4341,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,7,61.49,430.43
+5819,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,10,182.91,1829.10
+6700,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,2,85.65,171.30
+7562,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,9,148.59,1337.31
+7666,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,9,162.65,1463.85
+8634,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,10,76.57,765.70
+9712,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,9,128.64,1157.76
+9965,Sun Jan 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,5,18.46,92.30
+1880,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,2,63.72,127.44
+3308,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,8,149.90,1199.20
+3546,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,1,133.53,133.53
+4363,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,8,155.16,1241.28
+7022,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,7,203.38,1423.66
+8153,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,8,42.36,338.88
+9796,Mon Jan 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,3,90.46,271.38
+145,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,7,109.51,766.57
+4186,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,4,188.64,754.56
+7923,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,10,190.42,1904.20
+8540,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,4,203.98,815.92
+9036,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,3,81.73,245.19
+9145,Tue Jan 23 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,4,133.11,532.44
+1647,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,5,166.09,830.45
+3655,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,2,73.83,147.66
+4448,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,5,95.85,479.25
+5984,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,9,139.90,1259.10
+6662,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,6,101.65,609.90
+7153,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,7,132.95,930.65
+7950,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,1,32.39,32.39
+8185,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,3,107.13,321.39
+9201,Wed Jan 24 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,7,114.93,804.51
+398,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,7,129.95,909.65
+1698,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,4,37.47,149.88
+1771,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,3,69.42,208.26
+2078,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,183.88,183.88
+3100,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,9,77.26,695.34
+3811,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,9,136.57,1229.13
+4687,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,10,35.48,354.80
+6195,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,1,16.45,16.45
+7245,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,1,24.48,24.48
+8283,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,9,144.62,1301.58
+9257,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,7,78.64,550.48
+9431,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,4,88.04,352.16
+9738,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,1,21.78,21.78
+9899,Thu Jan 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,6,56.81,340.86
+1000,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,5,22.58,112.90
+1263,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,1,201.90,201.90
+1349,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,7,195.20,1366.40
+1691,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,9,73.22,658.98
+3278,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,9,110.06,990.54
+3906,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,3,149.97,449.91
+4235,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,3,147.06,441.18
+5059,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,7,91.11,637.77
+5982,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,3,22.08,66.24
+6071,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,6,147.44,884.64
+6178,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,2,71.07,142.14
+6460,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,7,110.75,775.25
+6534,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,1,18.62,18.62
+7051,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,5,176.98,884.90
+7541,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,4,54.83,219.32
+8046,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,5,41.13,205.65
+8738,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,7,122.55,857.85
+8971,Fri Jan 26 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,5,131.03,655.15
+1539,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,1,114.98,114.98
+1916,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,6,36.10,216.60
+2116,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,7,164.68,1152.76
+2603,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,8,179.38,1435.04
+4122,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,2,97.69,195.38
+5031,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,2,43.19,86.38
+5282,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,6,76.16,456.96
+6049,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,2,74.24,148.48
+7764,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,3,12.87,38.61
+9371,Sat Jan 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,5,203.08,1015.40
+224,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,8,29.07,232.56
+469,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,4,107.61,430.44
+970,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,5,128.69,643.45
+1033,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,9,137.58,1238.22
+1496,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,1,34.09,34.09
+2133,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,8,113.93,911.44
+2845,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,4,142.73,570.92
+3481,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,7,26.26,183.82
+3494,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,1,90.86,90.86
+4844,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,9,33.29,299.61
+5056,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,10,161.80,1618.00
+6335,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,5,29.76,148.80
+6967,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,3,140.02,420.06
+7002,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,6,17.21,103.26
+7250,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,6,103.76,622.56
+8307,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,6,94.56,567.36
+9205,Sun Jan 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,4,10.25,41.00
+525,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,10,128.31,1283.10
+2622,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,8,148.00,1184.00
+3464,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,9,185.97,1673.73
+6153,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,10,69.33,693.30
+6966,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,6,48.99,293.94
+7802,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,4,70.75,283.00
+7963,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,9,6.84,61.56
+8094,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,7,20.61,144.27
+8304,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,3,186.60,559.80
+8995,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,8,103.18,825.44
+9681,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,5,64.10,320.50
+9693,Mon Jan 29 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,9,24.54,220.86
+24,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,4,136.68,546.72
+43,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,10,178.92,1789.20
+827,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,10,48.55,485.50
+2737,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,9,67.80,610.20
+2850,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,3,104.40,313.20
+3271,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,5,9.84,49.20
+3471,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,5,40.89,204.45
+5180,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,9,85.08,765.72
+5184,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,7,173.14,1211.98
+5407,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,2,196.20,392.40
+6163,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,10,115.19,1151.90
+6250,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,9,8.44,75.96
+6508,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,6,191.39,1148.34
+6739,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,2,63.08,126.16
+7817,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,9,84.43,759.87
+8536,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,1,86.52,86.52
+8776,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,7,40.90,286.30
+8882,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,10,124.66,1246.60
+9701,Tue Jan 30 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,9,204.80,1843.20
+903,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,1,171.68,171.68
+4308,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,5,34.81,174.05
+5317,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,6,196.35,1178.10
+5970,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,1,53.26,53.26
+7311,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,7,190.04,1330.28
+7402,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,6,179.59,1077.54
+8613,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,9,172.95,1556.55
+9445,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,2,167.44,334.88
+9802,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,3,31.19,93.57
+9948,Wed Jan 31 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,10,195.46,1954.60
+487,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,3,189.05,567.15
+1822,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,8,115.90,927.20
+2858,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,5,169.56,847.80
+2992,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,8,109.61,876.88
+6206,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,2,45.66,91.32
+7863,Thu Feb 01 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,4,57.21,228.84
+738,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,1,56.31,56.31
+1125,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,10,124.65,1246.50
+1456,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,1,192.94,192.94
+1878,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,4,125.91,503.64
+2315,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,6,196.76,1180.56
+2586,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,7,167.62,1173.34
+2758,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,4,137.03,548.12
+2832,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,1,23.20,23.20
+4113,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,21.92,21.92
+4799,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,9,146.96,1322.64
+4850,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,1,79.60,79.60
+5176,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,5,76.09,380.45
+5383,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,4,21.82,87.28
+5811,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,10,150.06,1500.60
+6054,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,3,127.81,383.43
+6119,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,8,144.33,1154.64
+6417,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,10,116.95,1169.50
+7147,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,3,136.04,408.12
+7318,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,6,14.06,84.36
+7728,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,7,69.05,483.35
+8014,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,4,200.91,803.64
+8076,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,10,182.15,1821.50
+8346,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,1,74.29,74.29
+9845,Fri Feb 02 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,7,46.01,322.07
+132,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,6,159.55,957.30
+1303,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,1,82.63,82.63
+1325,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,10,77.47,774.70
+2231,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,7,48.28,337.96
+2234,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,10,114.21,1142.10
+4039,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,6,78.80,472.80
+4898,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,7,22.80,159.60
+6517,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,7,188.22,1317.54
+8169,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,2,66.98,133.96
+8420,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,7,19.66,137.62
+8547,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,2,35.24,70.48
+8731,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,1,190.54,190.54
+9808,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,7,86.30,604.10
+9936,Sat Feb 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,1,18.89,18.89
+21,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,4,204.16,816.64
+1680,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,9,93.50,841.50
+1917,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,5,13.40,67.00
+2800,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,9,149.52,1345.68
+2885,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,3,167.86,503.58
+4333,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,4,191.84,767.36
+4436,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,6,119.52,717.12
+6659,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,9,86.29,776.61
+7108,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,9,184.98,1664.82
+7763,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,9,104.72,942.48
+7850,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,5,188.25,941.25
+9882,Sun Feb 04 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,10,52.97,529.70
+278,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,4,105.40,421.60
+587,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,4,90.82,363.28
+1769,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,6,141.83,850.98
+2939,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,8,165.07,1320.56
+7414,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,3,141.98,425.94
+7599,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,7,26.64,186.48
+8693,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,3,159.33,477.99
+8833,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,4,36.89,147.56
+9283,Mon Feb 05 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,8,180.40,1443.20
+1534,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,7,117.92,825.44
+1826,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,8,70.01,560.08
+2305,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,5,94.36,471.80
+2398,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,2,122.04,244.08
+3508,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,1,92.15,92.15
+3600,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,1,124.76,124.76
+3838,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,5,154.82,774.10
+3846,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,3,24.22,72.66
+4803,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,8,151.97,1215.76
+5037,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,7,73.63,515.41
+5354,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,5,200.04,1000.20
+5771,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,2,44.03,88.06
+5936,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,5,105.25,526.25
+7280,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,111.59,892.72
+7345,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,4,151.77,607.08
+8858,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,7,50.14,350.98
+9159,Tue Feb 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,4,62.02,248.08
+1576,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,2,120.48,240.96
+1780,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,8,104.36,834.88
+2270,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,3,100.29,300.87
+2537,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,4,96.47,385.88
+3386,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,4,46.40,185.60
+3422,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,3,132.29,396.87
+3536,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,9,119.07,1071.63
+4396,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,9,38.10,342.90
+4991,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,3,184.73,554.19
+5611,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,9,63.55,571.95
+6079,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,4,129.06,516.24
+7181,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,6,131.17,787.02
+7266,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,5,180.20,901.00
+7486,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,10,45.23,452.30
+8048,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,2,169.84,339.68
+8447,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,7,42.25,295.75
+8544,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,8,80.62,644.96
+9571,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,4,62.38,249.52
+9660,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,1,79.78,79.78
+9930,Wed Feb 07 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,7,48.37,338.59
+837,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,2,193.53,387.06
+1411,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,5,109.25,546.25
+2606,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,6,155.59,933.54
+3304,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,2,40.41,80.82
+4237,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,7,86.77,607.39
+4836,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,2,173.80,347.60
+4968,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,3,25.15,75.45
+5326,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,8,202.96,1623.68
+5331,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,1,104.04,104.04
+5854,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,8,181.04,1448.32
+5878,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,1,113.63,113.63
+6038,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,8,9.98,79.84
+6858,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,10,185.75,1857.50
+6947,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,6,128.23,769.38
+7795,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,2,142.35,284.70
+9842,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,7,55.60,389.20
+9959,Thu Feb 08 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,8,140.34,1122.72
+572,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,5,150.86,754.30
+896,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,4,204.80,819.20
+1951,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,8,39.67,317.36
+2855,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,5,34.34,171.70
+3865,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,8,15.89,127.12
+4375,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,2,43.90,87.80
+7269,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,7,178.35,1248.45
+7439,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,9,12.38,111.42
+7627,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,9,56.83,511.47
+9077,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,3,141.39,424.17
+9688,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,10,80.62,806.20
+9958,Fri Feb 09 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,2,37.74,75.48
+943,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,7,187.92,1315.44
+1187,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,6,39.39,236.34
+1874,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,8,11.40,91.20
+2028,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,8,49.04,392.32
+2135,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,7,124.93,874.51
+2464,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,1,191.64,191.64
+2785,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,2,147.24,294.48
+2985,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,7,90.77,635.39
+3353,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,6,88.27,529.62
+5412,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,10,34.05,340.50
+6958,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,3,112.64,337.92
+8432,Sat Feb 10 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,6,100.82,604.92
+9,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,4,71.75,287.00
+405,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,197.04,1576.32
+688,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,4,135.48,541.92
+1351,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,7,43.63,305.41
+1726,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,4,203.62,814.48
+2260,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,8,31.68,253.44
+3040,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,10,135.41,1354.10
+4209,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,6,114.10,684.60
+4407,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,3,126.27,378.81
+4619,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,7,43.87,307.09
+4754,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,7,89.56,626.92
+6595,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,10,48.42,484.20
+7983,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,8,57.66,461.28
+8365,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,5,202.99,1014.95
+8579,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,8,107.85,862.80
+8631,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,5,32.93,164.65
+8728,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,3,55.49,166.47
+9066,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,2,96.01,192.02
+9517,Sun Feb 11 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,3,50.27,150.81
+273,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,8,155.89,1247.12
+745,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,1,6.09,6.09
+1497,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,10,137.37,1373.70
+1499,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,3,189.58,568.74
+1502,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,6,116.43,698.58
+1762,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,8,140.73,1125.84
+2701,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,6,154.43,926.58
+2754,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,4,9.83,39.32
+3430,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,6,35.65,213.90
+4252,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,5,159.57,797.85
+4438,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,6,50.88,305.28
+5403,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,6,122.32,733.92
+5792,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,7,100.88,706.16
+6609,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,9,135.86,1222.74
+6853,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,5,49.98,249.90
+7027,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,7,150.56,1053.92
+7183,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,7,51.06,357.42
+8034,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,3,19.09,57.27
+8741,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,9,140.04,1260.36
+8859,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,5,12.67,63.35
+9340,Mon Feb 12 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,1,94.86,94.86
+1558,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,1,62.36,62.36
+3766,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,10,83.09,830.90
+4639,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,1,91.02,91.02
+5559,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,10,19.58,195.80
+6088,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,1,136.86,136.86
+8414,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,5,51.07,255.35
+8459,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,1,198.01,198.01
+8934,Tue Feb 13 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,7,17.69,123.83
+58,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,6,126.72,760.32
+1165,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,4,34.48,137.92
+1356,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,9,72.28,650.52
+2673,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,8,52.63,421.04
+3035,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,10,138.82,1388.20
+3440,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,1,114.28,114.28
+4253,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,7,142.47,997.29
+4822,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,6,23.60,141.60
+5938,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,6,203.17,1219.02
+7163,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,8,68.06,544.48
+7495,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,3,5.97,17.91
+7574,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,3,73.78,221.34
+7746,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,2,64.69,129.38
+7749,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,6,12.12,72.72
+8603,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,8,51.45,411.60
+8795,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,9,89.44,804.96
+9133,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,5,19.37,96.85
+9453,Wed Feb 14 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,4,204.63,818.52
+168,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,5,31.41,157.05
+2844,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,4,182.95,731.80
+3380,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,1,97.28,97.28
+3604,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,7,160.56,1123.92
+3897,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,10,75.33,753.30
+4045,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,3,73.50,220.50
+5455,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,8,73.16,585.28
+6886,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,1,117.71,117.71
+7965,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,3,24.72,74.16
+8673,Thu Feb 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,5,147.21,736.05
+92,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,10,110.17,1101.70
+515,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,1,116.64,116.64
+556,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,7,9.90,69.30
+3153,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,9,59.47,535.23
+3168,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,7,92.83,649.81
+3358,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,8,111.88,895.04
+3555,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,1,20.58,20.58
+3677,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,10,79.41,794.10
+6115,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,7,58.31,408.17
+6265,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,7,154.69,1082.83
+6315,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,6,49.21,295.26
+6367,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,8,191.40,1531.20
+6528,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,1,18.21,18.21
+6764,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,2,76.25,152.50
+6996,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,7,195.63,1369.41
+8006,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,2,61.34,122.68
+9026,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,5,106.88,534.40
+9197,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,8,174.10,1392.80
+9988,Fri Feb 16 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,7,26.39,184.73
+500,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,8,9.77,78.16
+865,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,3,19.97,59.91
+1121,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,4,190.09,760.36
+3253,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,10,145.56,1455.60
+3459,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,8,131.00,1048.00
+4374,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,4,177.50,710.00
+4807,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,9,24.64,221.76
+6146,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,8,26.15,209.20
+7274,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,9,201.92,1817.28
+8683,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,9,47.82,430.38
+8687,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,7,176.57,1235.99
+9643,Sat Feb 17 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,10,123.12,1231.20
+209,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,8,146.46,1171.68
+1457,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,1,193.03,193.03
+2890,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,7,196.27,1373.89
+3096,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,9,16.03,144.27
+3211,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,2,17.75,35.50
+3275,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,10,86.55,865.50
+4420,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,3,156.04,468.12
+6510,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,8,180.87,1446.96
+7711,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,10,48.11,481.10
+8424,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,2,144.54,289.08
+9081,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,5,134.01,670.05
+9503,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,10,48.04,480.40
+9772,Sun Feb 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,3,181.33,543.99
+1382,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,2,160.17,320.34
+1458,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,2,5.36,10.72
+2859,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,10,115.38,1153.80
+3570,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,8,11.59,92.72
+4740,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,4,119.71,478.84
+4927,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,8,134.68,1077.44
+5208,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,4,53.52,214.08
+5546,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,2,60.34,120.68
+6477,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,1,154.15,154.15
+6586,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,2,191.81,383.62
+7102,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,5,182.86,914.30
+7293,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,3,79.45,238.35
+8199,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,7,77.73,544.11
+9587,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,8,170.99,1367.92
+9783,Mon Feb 19 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,8,28.20,225.60
+48,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,8,101.74,813.92
+98,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,7,153.36,1073.52
+456,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,5,203.23,1016.15
+594,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,9,52.25,470.25
+1453,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,6,128.10,768.60
+1882,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,10,169.06,1690.60
+2213,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,7,181.00,1267.00
+5636,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,1,108.69,108.69
+6156,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,5,7.77,38.85
+6666,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,1,134.28,134.28
+7100,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,5,181.24,906.20
+7915,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,7,36.48,255.36
+8902,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,9,19.03,171.27
+9749,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,5,120.67,603.35
+9935,Tue Feb 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,5,189.24,946.20
+488,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,6,158.01,948.06
+1148,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,3,177.07,531.21
+2941,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,8,61.80,494.40
+3147,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,9,43.86,394.74
+3595,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,10,129.41,1294.10
+4228,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,8,163.99,1311.92
+5001,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,10,79.93,799.30
+5129,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,8,161.52,1292.16
+5231,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,8,164.00,1312.00
+6527,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,9,105.47,949.23
+7033,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,3,115.24,345.72
+7319,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,5,129.20,646.00
+7346,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,1,143.70,143.70
+9183,Wed Feb 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,8,115.51,924.08
+501,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,3,120.50,361.50
+1568,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,6,67.01,402.06
+2009,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,1,30.56,30.56
+2304,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,9,35.90,323.10
+2554,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,147.79,147.79
+3051,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,1,44.97,44.97
+3535,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,10,188.07,1880.70
+3845,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,10,156.15,1561.50
+3912,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,1,35.91,35.91
+4089,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,6,119.04,714.24
+5027,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,5,68.75,343.75
+6362,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,7,189.84,1328.88
+7141,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,5,191.62,958.10
+8949,Thu Feb 22 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,5,110.21,551.05
+1418,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,5,80.94,404.70
+1519,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,9,117.41,1056.69
+2220,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,10,31.97,319.70
+2239,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,1,33.72,33.72
+3543,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,5,61.85,309.25
+5515,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,9,50.40,453.60
+8026,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,4,192.24,768.96
+8297,Fri Feb 23 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,4,32.40,129.60
+957,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,5,104.15,520.75
+1428,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,2,77.50,155.00
+1635,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,10,19.62,196.20
+1649,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,9,21.37,192.33
+2198,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,5,114.08,570.40
+3999,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,7,199.67,1397.69
+4037,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,6,192.72,1156.32
+4347,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,2,81.02,162.04
+4762,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,9,192.64,1733.76
+6033,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,4,77.47,309.88
+6830,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,1,14.92,14.92
+7062,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,6,73.27,439.62
+7215,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,7,7.03,49.21
+7626,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,10,17.26,172.60
+9369,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,2,57.26,114.52
+9381,Sat Feb 24 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,4,44.21,176.84
+1839,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,3,16.75,50.25
+1947,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,10,170.35,1703.50
+2236,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,4,46.54,186.16
+2767,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,4,146.01,584.04
+3318,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,1,37.44,37.44
+3802,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,7,97.67,683.69
+5287,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,8,73.39,587.12
+5372,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,10,34.68,346.80
+5749,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,2,110.33,220.66
+5940,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,1,151.11,151.11
+7584,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,1,78.08,78.08
+7908,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,10,156.32,1563.20
+8354,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,9,201.61,1814.49
+8378,Sun Feb 25 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,6,27.15,162.90
+942,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,10,162.37,1623.70
+955,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,4,197.09,788.36
+1008,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,2,21.49,42.98
+1046,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,7,191.93,1343.51
+1495,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,9,131.52,1183.68
+2530,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,6,159.45,956.70
+3370,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,10,198.30,1983.00
+4310,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,6,7.39,44.34
+4488,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,5,59.30,296.50
+4784,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,10,35.22,352.20
+5161,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,7,8.54,59.78
+5599,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,2,60.71,121.42
+6696,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,8,122.76,982.08
+6833,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,8,79.23,633.84
+6916,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,7,161.45,1130.15
+7523,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,7,188.27,1317.89
+9481,Mon Feb 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,10,47.30,473.00
+1494,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,1,167.41,167.41
+2082,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,4,36.95,147.80
+2232,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,2,36.63,73.26
+2418,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,7,191.02,1337.14
+2428,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,4,101.49,405.96
+2577,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Starter Kit,8,25.02,200.16
+2580,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,5,142.82,714.10
+3098,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,4,157.99,631.96
+3273,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,License Plus,1,143.80,143.80
+4145,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,10,42.01,420.10
+4181,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,10,200.48,2004.80
+4238,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,4,153.90,615.60
+5350,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,5,70.89,354.45
+5353,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,4,43.55,174.20
+5712,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,6,185.12,1110.72
+6259,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,1,100.97,100.97
+6918,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,1,159.55,159.55
+7267,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,8,194.33,1554.64
+7607,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,7,71.47,500.29
+7709,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,6,139.43,836.58
+7898,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,8,195.16,1561.28
+8575,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,8,138.38,1107.04
+8662,Tue Feb 27 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,9,134.39,1209.51
+382,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,1,143.51,143.51
+1753,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,1,54.53,54.53
+2521,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,5,14.63,73.15
+2780,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,3,61.33,183.99
+3245,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,3,148.97,446.91
+3548,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,8,85.27,682.16
+3597,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,1,55.26,55.26
+3670,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,7,84.24,589.68
+4014,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,7,140.15,981.05
+4104,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,10,112.30,1123.00
+4569,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,9,84.35,759.15
+5432,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,8,167.54,1340.32
+7392,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,6,85.49,512.94
+8450,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,6,48.26,289.56
+8750,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,2,98.22,196.44
+8921,Wed Feb 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,7,199.93,1399.51
+1122,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,4,168.89,675.56
+1922,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,10,85.65,856.50
+3233,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,7,119.72,838.04
+4700,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,9,177.76,1599.84
+5016,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,10,180.01,1800.10
+6458,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,6,131.22,787.32
+6973,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,6,77.14,462.84
+7085,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,10,155.55,1555.50
+8541,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,4,175.62,702.48
+8923,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,4,58.66,234.64
+9017,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,3,102.72,308.16
+9030,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,1,140.29,140.29
+9563,Thu Feb 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,10,75.18,751.80
+1208,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,7,198.15,1387.05
+1661,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,3,146.32,438.96
+4139,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,7,127.97,895.79
+4306,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,4,131.19,524.76
+5736,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,7,74.66,522.62
+5997,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,10,139.75,1397.50
+6229,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,6,82.97,497.82
+6399,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,6,204.85,1229.10
+7020,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,4,135.80,543.20
+8188,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,7,158.07,1106.49
+8299,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,3,51.20,153.60
+8680,Fri Mar 01 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,2,64.31,128.62
+2929,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,10,146.91,1469.10
+3614,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,10,150.71,1507.10
+4658,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,1,192.99,192.99
+5097,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,5,126.60,633.00
+5319,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,9,23.64,212.76
+6218,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,1,177.63,177.63
+7361,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,3,51.71,155.13
+7418,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,1,198.20,198.20
+8530,Sat Mar 02 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,3,197.66,592.98
+615,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,7,191.73,1342.11
+1395,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,3,170.49,511.47
+2438,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,6,38.27,229.62
+2465,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,8,68.26,546.08
+3472,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,8,49.22,393.76
+3510,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,7,151.66,1061.62
+3868,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,6,168.58,1011.48
+3972,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,2,90.09,180.18
+4231,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,3,53.10,159.30
+5098,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,8,67.94,543.52
+6772,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,10,124.70,1247.00
+7829,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,2,82.39,164.78
+7993,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,8,139.99,1119.92
+8288,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,7,118.76,831.32
+8739,Sun Mar 03 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,2,142.87,285.74
+296,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,6,88.47,530.82
+655,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,5,120.41,602.05
+1579,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,3,26.30,78.90
+3121,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,7,199.19,1394.33
+3688,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,7,53.90,377.30
+4195,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,10,30.88,308.80
+4293,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,8,36.88,295.04
+4443,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,10,20.81,208.10
+6993,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,9,170.81,1537.29
+7920,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,7,25.90,181.30
+7959,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,8,160.39,1283.12
+8157,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,1,56.10,56.10
+8500,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,5,107.71,538.55
+8513,Mon Mar 04 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,3,101.50,304.50
+3017,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,9,24.93,224.37
+4364,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,5,113.54,567.70
+4544,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,10,140.80,1408.00
+4964,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,6,123.68,742.08
+5473,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,8,7.01,56.08
+6000,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,8,111.25,890.00
+8748,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,5,156.03,780.15
+8974,Tue Mar 05 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,5,88.04,440.20
+2490,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,4,172.99,691.96
+3215,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,2,27.72,55.44
+4610,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,4,136.61,546.44
+4792,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,4,144.44,577.76
+5600,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,8,202.11,1616.88
+5748,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,1,31.15,31.15
+6658,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,9,126.53,1138.77
+7023,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,7,32.52,227.64
+7301,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,9,54.92,494.28
+7716,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,9,33.86,304.74
+8791,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,10,181.44,1814.40
+9033,Wed Mar 06 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,5,41.33,206.65
+13,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,9,140.44,1263.96
+1037,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,2,39.11,78.22
+1337,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,7,81.11,567.77
+2768,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,9,172.24,1550.16
+3150,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,9,33.16,298.44
+3504,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Starter Kit,3,111.50,334.50
+3736,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,5,73.43,367.15
+4721,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,3,137.81,413.43
+5529,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,1,83.62,83.62
+5960,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,1,16.47,16.47
+5972,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,10,9.57,95.70
+5976,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,8,184.59,1476.72
+8524,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,2,44.04,88.08
+9584,Thu Mar 07 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,7,155.57,1088.99
+1221,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,8,201.32,1610.56
+1851,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,10,199.48,1994.80
+2789,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Starter Kit,5,106.11,530.55
+3474,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,3,143.94,431.82
+3971,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,8,14.99,119.92
+5618,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,5,167.69,838.45
+8953,Fri Mar 08 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,6,115.61,693.66
+231,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,2,18.04,36.08
+478,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,6,126.10,756.60
+1344,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,2,181.97,363.94
+1510,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,7,21.73,152.11
+1777,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,3,57.21,171.63
+1883,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,9,27.93,251.37
+2122,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,5,201.87,1009.35
+5060,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,8,38.64,309.12
+5252,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,1,98.48,98.48
+5381,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,9,94.37,849.33
+6581,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,1,134.21,134.21
+7394,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,9,203.66,1832.94
+8099,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,3,9.89,29.67
+8521,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,16.82,16.82
+9207,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,5,16.45,82.25
+9392,Sat Mar 09 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,6,159.98,959.88
+603,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,10,142.99,1429.90
+1765,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,1,21.97,21.97
+3196,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,3,102.72,308.16
+4710,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,5,44.85,224.25
+4847,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,9,97.26,875.34
+4942,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,9,12.42,111.78
+7384,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,8,24.55,196.40
+7651,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,3,116.11,348.33
+7713,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Service Pro,4,58.43,233.72
+7792,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,9,168.00,1512.00
+8071,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,5,12.13,60.65
+8359,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,9,126.09,1134.81
+8865,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,1,44.50,44.50
+9215,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,5,52.01,260.05
+9497,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,7,89.78,628.46
+9722,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,3,55.39,166.17
+9918,Sun Mar 10 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,3,10.57,31.71
+812,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Add-on Pack,2,188.63,377.26
+2339,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,5,188.56,942.80
+3133,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,3,152.40,457.20
+5313,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,9,50.67,456.03
+5489,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,9,203.77,1833.93
+6358,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,1,25.52,25.52
+6370,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,7,104.76,733.32
+6371,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,6,108.33,649.98
+7368,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,10,93.20,932.00
+7534,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,5,36.92,184.60
+8056,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,9,17.89,161.01
+8187,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,2,44.87,89.74
+8208,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,8,183.41,1467.28
+8632,Mon Mar 11 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,3,135.38,406.14
+555,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,10,15.99,159.90
+1146,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,7,41.92,293.44
+1378,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,7,171.16,1198.12
+1893,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Starter Kit,8,143.01,1144.08
+1960,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,9,8.90,80.10
+2535,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,3,108.48,325.44
+4258,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,6,140.59,843.54
+6203,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,1,6.47,6.47
+7011,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,9,173.68,1563.12
+7078,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,10,106.09,1060.90
+7729,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,1,105.01,105.01
+7958,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,6,43.06,258.36
+7974,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,2,173.96,347.92
+8139,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,1,79.11,79.11
+8372,Tue Mar 12 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,3,42.17,126.51
+157,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,7,202.51,1417.57
+409,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Premium Support,5,132.44,662.20
+1500,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,1,128.14,128.14
+1849,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,2,123.20,246.40
+2334,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,4,79.01,316.04
+3980,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,7,138.77,971.39
+5525,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,3,86.45,259.35
+6475,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,5,121.44,607.20
+6552,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,1,139.63,139.63
+8246,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,8,128.97,1031.76
+8318,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,8,76.14,609.12
+8817,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,5,146.05,730.25
+9437,Wed Mar 13 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Starter Kit,8,116.79,934.32
+364,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Premium Support,4,114.39,457.56
+893,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,10,63.24,632.40
+2241,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,1,38.61,38.61
+2387,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,6,134.71,808.26
+2618,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,6,50.14,300.84
+5021,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,7,87.90,615.30
+5023,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,4,179.12,716.48
+5151,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,3,89.35,268.05
+7098,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,1,63.47,63.47
+7461,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,8,42.16,337.28
+8081,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,2,52.35,104.70
+8380,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,7,161.21,1128.47
+8864,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,5,106.52,532.60
+9786,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,4,66.56,266.24
+9790,Thu Mar 14 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,9,81.80,736.20
+207,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,10,197.66,1976.60
+2193,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,1,177.92,177.92
+2247,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,2,60.44,120.88
+2531,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,9,118.61,1067.49
+2813,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,2,92.24,184.48
+3250,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,License Plus,2,132.39,264.78
+3263,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,2,174.78,349.56
+3300,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,1,168.73,168.73
+3926,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,3,148.04,444.12
+4673,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,3,199.47,598.41
+5557,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,7,18.22,127.54
+6424,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,4,171.40,685.60
+6990,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Enterprise Suite,8,138.13,1105.04
+7196,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,4,160.38,641.52
+7649,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,6,157.05,942.30
+8507,Fri Mar 15 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,2,34.66,69.32
+659,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,5,111.96,559.80
+823,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,5,73.12,365.60
+2362,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,9,196.08,1764.72
+3053,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,5,189.52,947.60
+3782,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,9,23.65,212.85
+5258,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Enterprise Suite,7,77.45,542.15
+5888,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,4,194.42,777.68
+8930,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,5,132.94,664.70
+9200,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,5,138.04,690.20
+9548,Sat Mar 16 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,6,26.39,158.34
+904,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,10,86.82,868.20
+1086,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Service Pro,8,34.83,278.64
+1416,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,6,135.34,812.04
+1529,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,10,140.91,1409.10
+2058,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,4,80.70,322.80
+2752,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,1,40.00,40.00
+4335,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,8,92.28,738.24
+4880,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,2,202.80,405.60
+4981,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,1,26.66,26.66
+6939,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,7,117.60,823.20
+7125,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,10,31.42,314.20
+8145,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,3,189.40,568.20
+8276,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,10,118.01,1180.10
+9551,Sun Mar 17 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,6,163.38,980.28
+199,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,1,177.73,177.73
+300,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Service Pro,8,177.88,1423.04
+632,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,8,150.60,1204.80
+742,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,6,137.99,827.94
+1795,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,7,101.52,710.64
+2127,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,10,100.69,1006.90
+2597,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,4,151.57,606.28
+2753,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,3,61.46,184.38
+2905,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,3,189.00,567.00
+2969,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,4,64.27,257.08
+3161,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,10,81.14,811.40
+4215,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,6,95.93,575.58
+4859,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,8,123.75,990.00
+6041,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,9,182.77,1644.93
+6243,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,8,184.92,1479.36
+6597,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,6,103.46,620.76
+6759,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,10,104.79,1047.90
+6852,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,5,204.99,1024.95
+7772,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,8,198.06,1584.48
+8301,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,7,81.68,571.76
+8525,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,2,8.76,17.52
+9123,Mon Mar 18 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,10,20.01,200.10
+123,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,5,167.91,839.55
+1417,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,1,63.83,63.83
+2931,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,7,168.15,1177.05
+3937,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,9,47.50,427.50
+4114,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,5,52.47,262.35
+4121,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,9,58.39,525.51
+4568,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,License Plus,6,166.86,1001.16
+4694,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,1,170.74,170.74
+6231,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,8,161.35,1290.80
+8655,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,7,188.26,1317.82
+9696,Tue Mar 19 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,5,150.99,754.95
+379,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget B,2,5.70,11.40
+716,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,2,52.59,105.18
+1171,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,8,51.40,411.20
+1800,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget B,5,93.46,467.30
+4465,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,6,141.47,848.82
+5497,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,146.10,146.10
+5941,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,3,165.62,496.86
+6252,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,License Plus,2,49.40,98.80
+6467,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,6,90.79,544.74
+7096,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,8,174.72,1397.76
+7148,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,8,83.60,668.80
+7355,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,4,34.93,139.72
+7467,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,8,157.60,1260.80
+7546,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget X,7,94.61,662.27
+8146,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,10,180.11,1801.10
+9508,Wed Mar 20 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,1,31.49,31.49
+808,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,5,26.56,132.80
+2973,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Starter Kit,2,120.05,240.10
+3533,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,5,200.85,1004.25
+3679,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,10,81.27,812.70
+4511,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,10,94.01,940.10
+4714,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,9,145.83,1312.47
+6093,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,2,8.15,16.30
+6818,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,5,68.41,342.05
+7538,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,2,35.84,71.68
+7551,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,8,107.98,863.84
+9354,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,10,12.57,125.70
+9400,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget Y,7,8.54,59.78
+9719,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,5,73.08,365.40
+9919,Thu Mar 21 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,4,57.23,228.92
+1331,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget Y,1,21.62,21.62
+1764,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,6,193.57,1161.42
+2087,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Gadget Y,7,84.80,593.60
+2111,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,10,54.81,548.10
+2141,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,8,10.90,87.20
+2532,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,9,167.71,1509.39
+3240,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,10,97.64,976.40
+5009,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget B,2,157.71,315.42
+5197,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget A,1,11.68,11.68
+6438,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,9,78.77,708.93
+7885,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,3,140.05,420.15
+7956,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,4,192.27,769.08
+8131,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,License Plus,8,181.21,1449.68
+9279,Fri Mar 22 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,10,102.80,1028.00
+4,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget Y,10,106.05,1060.50
+59,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget Y,8,26.40,211.20
+179,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,3,118.50,355.50
+2008,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,7,144.51,1011.57
+3450,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,5,58.62,293.10
+3506,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,6,167.10,1002.60
+4482,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,10,5.75,57.50
+6026,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,2,196.82,393.64
+6381,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Enterprise Suite,5,180.70,903.50
+6829,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,4,57.91,231.64
+8661,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,4,144.04,576.16
+9610,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget Y,2,195.78,391.56
+9726,Sat Mar 23 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,6,153.49,920.94
+357,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,10,8.89,88.90
+452,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,4,102.63,410.52
+592,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,5,185.24,926.20
+831,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,9,21.79,196.11
+1511,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,7,67.73,474.11
+1720,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,9,150.37,1353.33
+1911,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Starter Kit,5,95.30,476.50
+2217,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,8,131.93,1055.44
+2817,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Add-on Pack,8,40.64,325.12
+3708,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Premium Support,4,204.83,819.32
+5986,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Add-on Pack,3,98.55,295.65
+7010,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,8,170.95,1367.60
+7320,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget X,7,96.71,676.97
+7656,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,1,79.08,79.08
+9870,Sun Mar 24 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,7,25.82,180.74
+41,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,9,170.25,1532.25
+1370,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,10,86.84,868.40
+2035,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,7,52.91,370.37
+2081,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Starter Kit,2,57.83,115.66
+2093,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,9,185.97,1673.73
+2748,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Premium Support,8,172.06,1376.48
+2760,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget X,10,194.93,1949.30
+3390,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget A,4,153.12,612.48
+4388,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Service Pro,7,187.57,1312.99
+5272,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Premium Support,10,86.57,865.70
+8565,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,6,48.11,288.66
+9069,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,5,18.22,91.10
+9755,Mon Mar 25 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Enterprise Suite,7,142.54,997.78
+1319,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,5,192.96,964.80
+1781,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,4,62.44,249.76
+2046,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Gadget X,1,108.75,108.75
+2560,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget A,1,58.82,58.82
+5906,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Premium Support,8,120.07,960.56
+6591,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,License Plus,1,6.54,6.54
+6674,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,7,59.34,415.38
+8993,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,2,51.73,103.46
+9729,Tue Mar 26 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,8,82.40,659.20
+342,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Gadget Y,5,9.63,48.15
+1005,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Starter Kit,7,195.62,1369.34
+3059,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Add-on Pack,7,155.86,1091.02
+3683,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Widget B,3,194.98,584.94
+3794,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,1,39.44,39.44
+4270,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Gadget X,1,183.48,183.48
+4353,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget B,1,11.14,11.14
+5296,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Widget B,1,39.67,39.67
+5323,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Premium Support,4,76.50,306.00
+5503,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,6,103.91,623.46
+6134,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Premium Support,1,98.49,98.49
+6334,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Service Pro,2,108.56,217.12
+6730,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,6,6.04,36.24
+7326,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Starter Kit,3,71.60,214.80
+7405,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,9,151.18,1360.62
+7734,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Enterprise Suite,7,182.94,1280.58
+8931,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Widget A,5,165.66,828.30
+9505,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,4,131.38,525.52
+9506,Wed Mar 27 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Premium Support,7,29.84,208.88
+605,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget A,6,33.86,203.16
+1696,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,4,80.02,320.08
+2374,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,License Plus,10,21.33,213.30
+2562,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,3,68.96,206.88
+2634,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,10,95.17,951.70
+2804,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,3,84.24,252.72
+2881,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,3,60.52,181.56
+4134,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Add-on Pack,1,53.84,53.84
+5133,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Enterprise Suite,5,97.01,485.05
+6008,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Stark Industries,Widget A,4,148.93,595.72
+6024,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,6,134.46,806.76
+7206,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Add-on Pack,9,202.67,1824.03
+7477,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,1,110.08,110.08
+7491,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Premium Support,5,202.95,1014.75
+8134,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,5,138.44,692.20
+8675,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,6,40.54,243.24
+9914,Thu Mar 28 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget X,10,149.80,1498.00
+267,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget Y,5,200.80,1004.00
+1445,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Service Pro,6,164.97,989.82
+1578,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Starter Kit,10,125.04,1250.40
+3479,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Service Pro,2,102.79,205.58
+5427,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Starter Kit,4,117.04,468.16
+5782,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Service Pro,6,148.57,891.42
+6164,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Enterprise Suite,3,54.39,163.17
+6303,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,9,187.17,1684.53
+6577,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,1,194.34,194.34
+7383,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Enterprise Suite,2,44.20,88.40
+8104,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,6,70.83,424.98
+8275,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Gadget X,1,26.78,26.78
+8773,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,10,49.58,495.80
+8977,Fri Mar 29 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Add-on Pack,5,99.49,497.45
+617,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Enterprise Suite,7,43.77,306.39
+767,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Gadget X,6,129.66,777.96
+1252,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Add-on Pack,6,194.40,1166.40
+1336,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Gadget X,6,77.63,465.78
+1935,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Soylent Corp,Gadget Y,1,189.44,189.44
+3006,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,1,39.96,39.96
+3307,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Widget A,7,49.03,343.21
+3364,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Service Pro,6,73.43,440.58
+3415,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Globex,License Plus,7,167.82,1174.74
+4048,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,License Plus,5,91.04,455.20
+5899,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Gadget Y,10,120.86,1208.60
+6086,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Hooli,Widget A,5,52.36,261.80
+6863,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Wonka Industries,Starter Kit,3,79.39,238.17
+7961,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,4,138.47,553.88
+8229,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Gadget X,8,180.74,1445.92
+9098,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,License Plus,8,11.94,95.52
+9346,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Wayne Enterprises,Add-on Pack,8,120.55,964.40
+9833,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,9,96.17,865.53
+9844,Sat Mar 30 2024 00:00:00 GMT-0600 (hora estándar central),Globex,Service Pro,6,187.46,1124.76
+4008,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget B,3,140.42,421.26
+4088,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Enterprise Suite,9,19.18,172.62
+5444,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Add-on Pack,8,39.12,312.96
+6344,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget A,7,94.51,661.57
+7872,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Initech,Widget B,2,201.72,403.44
+8136,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,10,108.59,1085.90
+8189,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Pied Piper,Widget B,8,147.43,1179.44
+8629,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Acme Corp,Widget A,1,87.31,87.31
+9406,Sun Mar 31 2024 00:00:00 GMT-0600 (hora estándar central),Umbrella,Widget B,4,28.18,112.72
